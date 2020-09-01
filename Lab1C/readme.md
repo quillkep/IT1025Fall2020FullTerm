@@ -1,4 +1,4 @@
-Executive summary
+# Executive summary
 Type your executive summary as if you were explaining your lab on an IT team
 
 Information System Components 
