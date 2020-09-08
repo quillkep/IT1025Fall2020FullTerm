@@ -15,5 +15,13 @@ Summarize this assignment and the goal of this lab
 ## CPU, Input and Output
 * Identify how the example addresses each of the components: CPU, Input and Output
 
+# Data Representation
+
+## Numeric Conversions
+* Explain the difference between decimal, binary and hexadecimal numbers 
+* Convert the decimal number 211 to binary showing your work (be sure to include your name in your screenshot or scanned file)
+* Convert the binary number 101101010 to decimal (show your work)
+* Convert the decimal number 192 to hexadecimal (show your work)
+
 # Conclusion
 Reflect on what you have learnt from this week
