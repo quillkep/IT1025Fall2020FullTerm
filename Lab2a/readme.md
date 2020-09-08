@@ -3,10 +3,7 @@
 Summarize this assignment and the goal of this lab
 
 # Hardware
-## Hard Drives and Memo
-
-# Conclusion
-Reflect on what you have learnt from this weeky
+## Hard Drives and Memory
 * What is the difference between latency and transfer rates in the performance of a hard drive?
 * How a solid state (SSD) hard drive is different from a traditional hard drive?
 * Why does increasing RAM make the computer run faster?
