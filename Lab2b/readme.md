@@ -8,6 +8,7 @@ Summarize this assignment and the goal of this lab
 ## Logic Gates and circuits
 * Explain what is meant by a truth table and apply your knowledge to a NAND gate.  
 * How does the NAND gate truth table compare to that of an AND gate? 
+* Complete the logic gate exercises word doc and upload to this folder.
 
 ## IEEE - Ethically Aligned Design
 * Explain the purpose of IEEE and the importance of ethics in device design
