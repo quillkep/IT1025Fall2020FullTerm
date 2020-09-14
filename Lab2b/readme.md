@@ -2,7 +2,6 @@
 Summarize this assignment and the goal of this lab
 
 ## Hexadecimal color representation
-* Convert the binary representation: 10110101 to decimal and save your work to a file named BinaryConversion and upload to the lab folder. 
 * Explain the representation: #ab00ff using the site: https://www.colorhexa.com/ 
 * When considering accessibility in web sites would this color be problematic? Explain what should be considered. 
 
