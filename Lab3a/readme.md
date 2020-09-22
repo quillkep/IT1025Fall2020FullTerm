@@ -5,19 +5,20 @@
 
 * Explain the purpose of ERP software and provide an example. 
 
-* In addition to the chapter use the following resource:  https://www.vmware.com/solutions/virtualization.html#how-it-works
-and explain the purpose of virtualization. 
 
 # Virtualization
 
 Read the article 
 https://www.redhat.com/en/topics/virtualization/what-is-virtualization
 
+* In addition to the chapter use the following resource:  https://www.vmware.com/solutions/virtualization.html#how-it-works
+and explain the purpose of virtualization. 
+
 #### Explain the following: 
 * What types of problems are solved with virtualization? 
 * What role does hypervisor play in virtualization? 
 
-#### Continue learning about virtualization by exploring cloud computing vs. virtualization: 
+#### Cloud computing vs. Virtualization: 
     https://www.redhat.com/en/topics/cloud-computing/cloud-vs-virtualization  
  
 * In your own words explain the difference between cloud computing and virtualization  
